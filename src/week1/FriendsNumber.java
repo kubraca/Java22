@@ -1,3 +1,5 @@
+package week1;
+
 import java.util.Scanner;
 public class FriendsNumber {
     public static void main(String[] args){

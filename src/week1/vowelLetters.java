@@ -1,3 +1,5 @@
+package week1;
+
 public class vowelLetters {
     public static void main(String[] args) {
         char harf = 'G';

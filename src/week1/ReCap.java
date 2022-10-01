@@ -1,3 +1,5 @@
+package week1;
+
 public class ReCap {
     public static void main(String []args){
         int num1=26;

@@ -1,3 +1,5 @@
+package week1;
+
 public class Datatypes {
     int integerNum=123;
     double num= 21.7;

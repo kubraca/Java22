@@ -1,3 +1,5 @@
+package week1;
+
 public class LoopDemo {
     public static void main(String[] args) {
         int num = 12;

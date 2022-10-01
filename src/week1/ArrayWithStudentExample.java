@@ -1,3 +1,5 @@
+package week1;
+
 public class ArrayWithStudentExample {
     public static void main(String[] args){
         String[] students=new String[4];

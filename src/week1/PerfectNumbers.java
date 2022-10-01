@@ -1,3 +1,5 @@
+package week1;
+
 public class PerfectNumbers {
 public static void main (String[]args){
     // 6-> 1,2,3,
